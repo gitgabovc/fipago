@@ -105,7 +105,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header " style="background:#061B3D">
-                <h5 class="modal-title text-white">Estas seguro de eliminar?</h4>
+                <h5 class="modal-title text-white">?Estas seguro de eliminar?</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
