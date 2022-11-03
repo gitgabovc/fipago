@@ -12,7 +12,7 @@
             <thead class="text-white " style="border-bottom:none; background:#061B3D; border-color:#061B3D !important">
                 <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Código</th>
+                    <th scope="col">Código tarjeta</th>
                     <th scope="col">Fecha de Vencimiento</th>
                     <th scope="col">Saldo Monetario</th>
                     <th scope="col">imprimir</th>
